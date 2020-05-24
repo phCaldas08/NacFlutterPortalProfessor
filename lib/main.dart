@@ -17,6 +17,5 @@ class FiapApp extends StatelessWidget{
         "/home": (context) => Home(),
       },
     );
-  }
-  
+  }  
 }
